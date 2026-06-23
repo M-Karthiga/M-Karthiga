@@ -1,4 +1,4 @@
-# Hi there, I'm M-Karthiga! 👋
+# Hello, I'm Karthiga! 👋
 
 I'm an engineering design student at IIT Madras with a focus on **robotics, control systems, and machine learning**. I build things that sit at the intersection of hardware and AI. Below is a curated directory of my major projects, hardware systems, and software repositories.
 
