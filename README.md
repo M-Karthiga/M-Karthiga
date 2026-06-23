@@ -1,6 +1,6 @@
 # Hi there, I'm M-Karthiga! 👋
 
-I am an engineer passionate about Mechatronics, Robotics, Autonomous Navigation, and Machine Learning. Below is a curated directory of my major projects, hardware systems, and software repositories.
+I'm an engineering design student at IIT Madras with a focus on **robotics, control systems, and machine learning**. I build things that sit at the intersection of hardware and AI. Below is a curated directory of my major projects, hardware systems, and software repositories.
 
 ---
   
@@ -15,7 +15,7 @@ I am an engineer passionate about Mechatronics, Robotics, Autonomous Navigation,
 
 ## Electronics Club Projects
 
-### [MyoVoice (TinyML Device)](https://github.com/M-Karthiga)
+### [MyoVoice (TinyML Device)](https://github.com/Karthiga2805/Myovoice)
 *   **Description:** A TinyML-based device deployed on an ESP32-S3 that enables real-time Speech Synthesis/Recognition (SSR) from surface Electromyography (s-EMG) signals. Curated a dataset of ~2,500 s-EMG samples across 50-word classes.
 *   **Tech Stack:** C++, TinyML, ESP32-S3, Python (Signal Processing)
 
@@ -24,13 +24,13 @@ I am an engineer passionate about Mechatronics, Robotics, Autonomous Navigation,
 *   **Description:** AI-adaptive traffic signal control framework integrating YOLOv8 vehicle detection with SUMO traffic simulation. Implements an aging priority scheduling algorithm to optimize vehicle throughput.
 *   **Tech Stack:** Jupyter Notebook, Python, YOLOv8, SUMO
   
-### [REACH (Disaster Response Platform)](https://github.com/M-Karthiga/REACH)
-*   **Description:** A full-stack emergency response and reporting platform integrated with Google Maps API for live incident mapping, volunteer coordination, and emergency resource tracking. Features an LLM-powered fake-media detection module.
-*   **Tech Stack:** JavaScript, React, Google Maps API, Firebase/Cloud Integration
-
 ---
 
 ##  Course Projects
+
+### [REACH (Disaster Response Platform)](https://github.com/M-Karthiga/REACH)
+*   **Description:** A full-stack emergency response and reporting platform integrated with Google Maps API for live incident mapping, volunteer coordination, and emergency resource tracking. Features an LLM-powered fake-media detection module.
+*   **Tech Stack:** JavaScript, React, Google Maps API, Firebase/Cloud Integration
 
 ### [Mechatronics--ED5080](https://github.com/M-Karthiga/Mechatronics--ED5080)
 *   **Description:** Embedded Arduino control system for a robotic arm designed for autonomous color sorting. Utilizes sensor-driven object detection and EEPROM-backed calibration storage.
@@ -40,11 +40,26 @@ I am an engineer passionate about Mechatronics, Robotics, Autonomous Navigation,
 *   **Description:** An interactive urban traffic simulator featuring adaptive signal control based on Weighted Fair Queueing (WFQ) scheduling, custom network design tools, and traffic flow analysis dashboards.
 *   **Tech Stack:** Python
 
-### [Stair-Climbing Robotic Platform & BB-8 Droid](https://github.com/M-Karthiga)
-*   **Description:** 
-    *   **Stair-Climber:** A load-bearing robotic platform with scissor-jack load leveling and ML-optimized flexible wheels validated via Finite Element Analysis (FEA) in Autodesk Inventor.
-    *   **BB-8 Droid:** Functional mechanical prototype designed in Fusion 360 with a Raspberry Pi-based embedded control framework for locomotion and balance stabilization.
-*   **Tech Stack:** Autodesk Inventor, Fusion 360, Raspberry Pi
+### [Design-of-Mechanical-Systems-II (ED4060)](https://drive.google.com/drive/folders/1cFCMRKWzKi4fwpyU4osLQDztwNL22zkN?usp=sharing)
+* **Description:** Designed and analyzed a stair-climbing robotic platform featuring scissor-jack load leveling and flexible spoke-wheel mechanisms for improved obstacle traversal and terrain adaptability. The project involved CAD modeling, design optimization, and structural validation through Finite Element Analysis (FEA).
+* **Tech Stack:** Autodesk Inventor, FEA, Design Optimization
+
+### [Design-of-Thermal-and-Fluid-Systems (ED4040)](https://drive.google.com/drive/folders/1AyY2OUR5MOBmdpOFQKD5cc-NPcIDAbHh?usp=sharing)
+* **Description:** Designed an Alpha Stirling Heat Pump and investigated its thermodynamic performance under different operating conditions. The project involved system modeling, cycle analysis, and evaluation of heat-pump and refrigeration characteristics.
+* **Tech Stack:** Fusion 360, Thermodynamics, Heat Transfer Analysis
+
+### [Mechanistic-and-Data-Driven-Modelling-of-Complex-Systems](https://github.com/M-Karthiga/Piano-Movers-problem)
+* **Description:** Explored emergent behaviors in biological and social systems through agent-based simulations of fish schooling, bird flocking, and pedestrian crowd dynamics.
+* Additionally developed an ant-inspired cooperative transport model to study distributed decision-making and collective task execution in multi-agent systems.
+* **Tech Stack:** Python, Agent-Based Modelling, Complex Systems
+
+### [Design-of-Mechanical-Systems-I (ED2011)](https://docs.google.com/document/d/1zswiC0vZkA-N3DU99EAtkEh3ROQXWKTitV7kFgPZt7o/edit?usp=sharing)
+* **Description:** Investigated structural response under axial loading, buckling, torsion, bending, and stress concentration using finite element methods. The project focused on validating numerical simulations against analytical models and studying the influence of geometric features on mechanical performance.
+* **Tech Stack:** ANSYS, Finite Element Analysis (FEA), Structural Mechanics
+
+### [Foundations-of-Computational-Fluid-Dynamics (AM5630)](https://drive.google.com/drive/folders/1r4BV2_ktyOGNbMuTB563yBnf7kjZt0_W?usp=sharing)
+* **Description:** Developed a MATLAB-based Finite Volume Method (FVM) solver for two-dimensional heat conduction problems with variable thermal properties. Investigated the effects of discretization schemes, mesh resolution, boundary conditions, and convergence criteria on numerical accuracy and solution stability.
+* **Tech Stack:** MATLAB, Finite Volume Method (FVM), Computational Fluid Dynamics (CFD)
 
 ---
 
