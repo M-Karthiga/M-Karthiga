@@ -15,7 +15,7 @@ I'm an engineering design student at IIT Madras with a focus on **robotics, cont
 
 ## Electronics Club Projects
 
-### [MyoVoice (TinyML Device)](https://github.com/Karthiga2805/Myovoice)
+### [MyoVoice ](https://github.com/Karthiga2805/Myovoice)
 *   **Description:** A TinyML-based device deployed on an ESP32-S3 that enables real-time Speech Synthesis/Recognition (SSR) from surface Electromyography (s-EMG) signals. Curated a dataset of ~2,500 s-EMG samples across 50-word classes.
 *   **Tech Stack:** C++, TinyML, ESP32-S3, Python (Signal Processing)
 
@@ -69,7 +69,7 @@ I'm an engineering design student at IIT Madras with a focus on **robotics, cont
 *   **Description:** Embedded Arduino control system for a robotic arm designed for autonomous color sorting. Utilizes sensor-driven object detection and EEPROM-backed calibration storage.
 *   **Tech Stack:** C++, Arduino
     
-### [Design-of-Mechanical-Systems-I (ED2011)](https://docs.google.com/document/d/1zswiC0vZkA-N3DU99EAtkEh3ROQXWKTitV7kFgPZt7o/edit?usp=sharing)
+### [FEA study of structures in Ansys](https://docs.google.com/document/d/1zswiC0vZkA-N3DU99EAtkEh3ROQXWKTitV7kFgPZt7o/edit?usp=sharing)
 * **Description:** Investigated structural response under axial loading, buckling, torsion, bending, and stress concentration using finite element methods. The project focused on validating numerical simulations against analytical models and studying the influence of geometric features on mechanical performance.
 * **Tech Stack:** ANSYS, Finite Element Analysis (FEA), Structural Mechanics
 
