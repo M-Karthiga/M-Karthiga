@@ -13,6 +13,11 @@ I'm an engineering design student at IIT Madras with a focus on **robotics, cont
 *   **Description:** Simulation of the orientation dynamics of externally driven spheroidal particles in oscillating low-Reynolds-number shear flows. Implements Runge-Kutta integration and the Harmonic Balance Method.
 *   **Tech Stack:** MATLAB, Non-linear dynamics
 
+## Self Project 
+### [PID DC motor control](https://github.com/M-Karthiga/PID-Motor-Control)
+*   **Description:** Closed-loop PID speed controller for a Johnson DC geared motor implemented in MATLAB/Simulink and deployed to Arduino Uno via the Simulink Hardware Support Package. Features real-time RPM feedback using the motor's built-in quadrature encoder, a discrete low-pass filter for signal conditioning, and live gain tuning through Simulink External Mode.
+*   **Tech Stack:** Simulink, PID Control
+
 ## Electronics Club Projects
 
 ### [MyoVoice ](https://github.com/Karthiga2805/Myovoice)
