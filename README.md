@@ -11,7 +11,7 @@ I'm an engineering design student at IIT Madras with a focus on **robotics, cont
 
 ### [IIST-Summer-2025](https://github.com/M-Karthiga/IIST-Summer-2025)
 *   **Description:** Simulation of the orientation dynamics of externally driven spheroidal particles in oscillating low-Reynolds-number shear flows. Implements Runge-Kutta integration and the Harmonic Balance Method.
-*   **Tech Stack:** MATLAB
+*   **Tech Stack:** MATLAB, Non-linear dynamics
 
 ## Electronics Club Projects
 
